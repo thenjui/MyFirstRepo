@@ -1,0 +1,2 @@
+So far in this course, I have learned how to use GitHub for version control and collaboration.
+ I now understand how to create repositories, create branches, commit changes, and push files to GitHub using Git commands.
